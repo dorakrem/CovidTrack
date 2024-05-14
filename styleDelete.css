@@ -1,0 +1,78 @@
+body {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background-color: #abd7eb;
+  background: url(cov1.jpg);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Add a black background color to the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #e9e9e9;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Times New Roman", Times, serif;
+
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+/*container*/
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container h4 {
+  margin-top: 90px;
+  font-size: 40px;
+  margin-bottom: 20px;
+  line-height: 100%;
+  text-decoration: underline;
+}
+
+.table {
+  width: 100px;
+  height: 120px;
+  padding: 10px;
+  margin-left: -370px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px 0, 0 6px 20px 0;
+}
+
+
+th {
+  text-align: center;
+}
+
+.box {
+  width: 500px;
+}
