@@ -10,4 +10,4 @@ Technologies and Frameworks:
 * PHP: For server-side scripting and handling database interactions.
 * SQL: For querying and managing data within the database.
 * MySQL: As the relational database management system to store and retrieve COVID-19 related data.
-* VS Code: As the integrated development environment (IDE) for writing and debugging code.
+* VS Code: As the integrated development environment (IDE) for writing and debugging the code.
