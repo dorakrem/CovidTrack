@@ -1,4 +1,6 @@
 # CovidTrack
+A 3 member-team project for the CEID course of Web Programming and Systems.
+
 CovidTrack is a comprehensive website designed to monitor and track COVID-19 cases through a certain map highlighting the Points Of Interest (POIs) for each covid case. 
 
 This platform provides essential features for both users and administrators, ensuring efficient tracking and management of COVID-19 data.
